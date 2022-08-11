@@ -54,6 +54,8 @@
      <Compile Include="Assets/Scrips/Singleton/Singleton.cs" />
      <Compile Include="Assets/Scrips/Helpers/Pooling/ObjectPool.cs" />
      <Compile Include="Assets/Scrips/Helpers/Pooling/PooledObject.cs" />
+     <Compile Include="Assets/Scrips/Helpers/Pooling/Demo/ObjectPoolDemo.cs" />
+     <Compile Include="Assets/Scrips/Helpers/Pooling/Demo/ReturnAfterDelay.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.6f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
