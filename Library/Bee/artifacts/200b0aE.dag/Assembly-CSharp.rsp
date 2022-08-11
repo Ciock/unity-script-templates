@@ -363,6 +363,8 @@
 "Assets/LitJSON/Netstandard15Polyfill.cs"
 "Assets/LitJSON/ParserToken.cs"
 "Assets/Scrips/Helpers/DataOnDisk.cs"
+"Assets/Scrips/Helpers/Pooling/ObjectPool.cs"
+"Assets/Scrips/Helpers/Pooling/PooledObject.cs"
 "Assets/Scrips/Helpers/Saving/SaveableBehaviour.cs"
 "Assets/Scrips/Helpers/Saving/SavingService.cs"
 "Assets/Scrips/Helpers/Saving/TransformSaver.cs"

@@ -36,22 +36,24 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets/Scrips/Singleton/Singleton.cs" />
-     <Compile Include="Assets/Scrips/Singleton/SingletonExample.cs" />
-     <Compile Include="Assets/Scrips/Helpers/DataOnDisk.cs" />
-     <Compile Include="Assets/LitJSON/Netstandard15Polyfill.cs" />
-     <Compile Include="Assets/LitJSON/IJsonWrapper.cs" />
-     <Compile Include="Assets/LitJSON/JsonMapper.cs" />
-     <Compile Include="Assets/LitJSON/Lexer.cs" />
-     <Compile Include="Assets/LitJSON/ParserToken.cs" />
-     <Compile Include="Assets/LitJSON/JsonData.cs" />
      <Compile Include="Assets/LitJSON/JsonException.cs" />
-     <Compile Include="Assets/LitJSON/JsonMockWrapper.cs" />
-     <Compile Include="Assets/LitJSON/JsonReader.cs" />
-     <Compile Include="Assets/LitJSON/JsonWriter.cs" />
-     <Compile Include="Assets/Scrips/Helpers/Saving/SavingService.cs" />
-     <Compile Include="Assets/Scrips/Helpers/Saving/SaveableBehaviour.cs" />
+     <Compile Include="Assets/LitJSON/JsonData.cs" />
+     <Compile Include="Assets/LitJSON/ParserToken.cs" />
+     <Compile Include="Assets/LitJSON/Netstandard15Polyfill.cs" />
+     <Compile Include="Assets/Scrips/Helpers/DataOnDisk.cs" />
      <Compile Include="Assets/Scrips/Helpers/Saving/TransformSaver.cs" />
+     <Compile Include="Assets/LitJSON/Lexer.cs" />
+     <Compile Include="Assets/Scrips/Helpers/Saving/SavingService.cs" />
+     <Compile Include="Assets/LitJSON/JsonMockWrapper.cs" />
+     <Compile Include="Assets/LitJSON/JsonWriter.cs" />
+     <Compile Include="Assets/LitJSON/JsonReader.cs" />
+     <Compile Include="Assets/LitJSON/JsonMapper.cs" />
+     <Compile Include="Assets/Scrips/Helpers/Saving/SaveableBehaviour.cs" />
+     <Compile Include="Assets/Scrips/Singleton/SingletonExample.cs" />
+     <Compile Include="Assets/LitJSON/IJsonWrapper.cs" />
+     <Compile Include="Assets/Scrips/Singleton/Singleton.cs" />
+     <Compile Include="Assets/Scrips/Helpers/Pooling/ObjectPool.cs" />
+     <Compile Include="Assets/Scrips/Helpers/Pooling/PooledObject.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.6f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
