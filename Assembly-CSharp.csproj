@@ -58,6 +58,7 @@
      <Compile Include="Assets/Scrips/Singleton/Singleton.cs" />
      <Compile Include="Assets/Scrips/Scriptable Object/ObjectColor.cs" />
      <Compile Include="Assets/Scrips/Scriptable Object/SetColorOnStart.cs" />
+     <Compile Include="Assets/Scrips/MouseLock.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.6f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
